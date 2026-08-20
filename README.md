@@ -6,7 +6,7 @@
 
 # 🦹‍♂️ La Legión del Mal - desde local
 
-### Es un grupo dedicado aprender git github
+### Es un grupo dedicado aprender git github - desde local
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
