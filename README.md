@@ -1,5 +1,3 @@
-![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
-
 ![Workflow](https://img.shields.io/github/actions/workflow/status/sayee-444/legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/sayee-444/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/sayee-444/legion-del-mal)
