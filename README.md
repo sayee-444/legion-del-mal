@@ -9,7 +9,7 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos? - Remoto
+## ¿Quiénes somos? - Remoto y local
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 Lex Luthor, Magneto, Mystique y Brainiac lideran la Legión del Mal, y juntos hemos establecido un sistema de control de versiones para nuestras operaciones. Cada plan, misión y expediente se encuentra documentado y versionado en este repositorio.
