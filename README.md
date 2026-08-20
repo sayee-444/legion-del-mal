@@ -6,11 +6,6 @@
 ![Último commit](https://img.shields.io/github/last-commit/sayee-444/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/sayee-444/legion-del-mal?cacheSeconds=60)
 
-
-# Su querida creadora: Sayee. **Aprencienme!!**
-
-<img width="500" alt="29fd22c2-8504-490e-8b58-d1b7f2b058d9" src="https://github.com/user-attachments/assets/03cdb685-68de-4480-bed3-f7f86ee9d9ec" />
-
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
