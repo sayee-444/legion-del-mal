@@ -12,6 +12,11 @@
 ## ¿Quiénes somos?
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
+Lex Luthor, Magneto, Mystique y Brainiac lideran la Legión del Mal, y juntos hemos establecido un sistema de control de versiones para nuestras operaciones. Cada plan, misión y expediente se encuentra documentado y versionado en este repositorio.
+Tenemos que mantenernos un paso adelante de los héroes, y para eso necesitamos organización, estrategia y, sobre todo, discreción. Este repositorio es nuestra fortaleza digital, donde cada miembro puede acceder a la información necesaria para ejecutar nuestras operaciones con precisión.
+Somos el equipo que los héroes temen, y este repositorio es nuestra arma secreta. Bienvenido a la Legión del Mal, donde cada commit es un paso más hacia la dominación mundial, y cada pull request es una oportunidad para perfeccionar nuestros planes.
+
+
 
 ## Estructura de la organización!!
 
