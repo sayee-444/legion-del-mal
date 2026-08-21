@@ -7,7 +7,6 @@ jobs:
     runs-on: ubuntu-latest
       
 
-      steps:
-        - name: El agente se presenta
-          run: echo "Soy Lex Luthor y lider de la legion del mal"
-          
+    steps:
+      - name: El agente se presenta
+        run: echo "Soy Lex Luthor y lider de la legion del mal"
