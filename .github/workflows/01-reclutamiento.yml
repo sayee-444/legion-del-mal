@@ -33,7 +33,7 @@ jobs:
           git --version
           python3 --version
 
-        -name: Reconocimiento del terreno
+        name: Reconocimiento del terreno
         run: |
           echo "Reconocimiento del terreno"
           ls /
