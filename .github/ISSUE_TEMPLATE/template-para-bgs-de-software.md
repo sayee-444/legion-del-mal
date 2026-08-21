@@ -2,7 +2,7 @@
 name: Template para bgs de software
 about: Ayudanos a mejorar
 title: 'BUG: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de software
 assignees: sayee-444
 
 ---
