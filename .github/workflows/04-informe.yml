@@ -1,6 +1,6 @@
 name: Informe Diario de Dominación
 on:
-  schedule:
+  # schedule:
     # Los campos del cron son, en orden:
           #  ┌───────────── minuto (0 - 59)
           #  │ ┌───────────── hora (0 - 23)
