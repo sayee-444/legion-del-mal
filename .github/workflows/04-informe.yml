@@ -8,7 +8,7 @@ on:
           #  │ │ │ ┌───────────── mes (1 - 12)
           #  │ │ │ │ ┌───────────── día de la semana (0 - 6; 0 = domingo)
           #  │ │ │ │ │
-    - cron: "0 8 * * *"  # Cada día a las 8:00 UTC
+    # - cron: "0 8 * * *"  # Cada día a las 8:00 UTC
   workflow_dispatch: 
 
 permissions:
