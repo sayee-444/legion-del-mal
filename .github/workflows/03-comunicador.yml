@@ -1,4 +1,3 @@
-
 name: Comunicador de la legion
 
 on:
@@ -8,24 +7,27 @@ on:
         description: "Que villano envia el mensaje?"
         required: true
         type: choice
+        options:
           - Lex Luthor
           - Brainiac
           - Darkseid
           - Joker
           - Bizarro
           - Mystique
-          
+
       prioridad:
         description: "Nivel de prioridad"
         required: true
         type: choice
+        options:
           - 🟢 Normal
           - 🟡 Alta
           - 🔴 Critica
 
-      mensaje: 
+      mensaje:
         description: "Mensaje para el consejo de la legion"
         required: true
+        type: string
         default: "La mision fue un exito"
 
 jobs:
