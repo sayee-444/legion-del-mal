@@ -14,6 +14,17 @@ on:
           - Joker
           - Bizarro
           - Mystique
+      prioridad:
+        description: "Nivel de prioridad"
+        required: true
+        type: choice
+          - :green_circle: Normal
+          - :yellow_circle: Alta
+          - :red_circle: Critica
+      mensaje: 
+        description: "Mensaje para el consejo de la legion"
+        required: true
+        default: "La mision fue un exito"
 
 jobs:
   transmitir-mensaje:
