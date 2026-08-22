@@ -39,6 +39,6 @@ jobs:
         run: |
           echo "Inputs:"
           echo ""
-          echo "Villano: ${{ github.villano }}"
-          echo "Nivel de prioridad: ${{ github.prioridad }}"
-          echo "Mensaje: ${{ github.mensaje }}"
+          echo "Villano: ${{ inputs.villano }}"
+          echo "Nivel de prioridad: ${{ inputs.prioridad }}"
+          echo "Mensaje: ${{ inputs.mensaje }}"
