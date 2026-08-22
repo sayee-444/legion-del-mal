@@ -1,6 +1,7 @@
 name: Acceso a la fortaleza prohibida
 
-on: push
+on: 
+  workflow_dispatch:
 
 jobs:
   acceso-a-la-fortaleza:
@@ -15,3 +16,19 @@ jobs:
           ls -la
           echo ""
           echo "X pero que paso? no hay nada"
+
+      - name: "Brainiac desbloquea la boveda"
+        uses: actions/checkout@v4
+        
+      - name: 'Ahora si, vamos a ver los planes'
+        run: |
+          echo "Buscar los archivos de la Legion"
+          ls -la
+          echo "Funciona!!!"
+          echo ""
+          echo "Planes:"
+          ls planes/
+          echo "Villanos:"
+          ls villanos/
+          echo "Inteligencia:"
+          ls inteligencia/perdedores
