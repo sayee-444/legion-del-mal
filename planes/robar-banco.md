@@ -29,3 +29,7 @@ Robar el banco central de Metropolis y atraer a Superman para distraerlo mientra
 ### Atrapar a Superman:
 - Una vez que el robo esté en marcha, se activará un dispositivo de señalización para atraer a Superman al lugar del robo. Este dispositivo emitirá una señal de socorro falsa que hará que Superman acuda al banco, permitiendo que el equipo complete su misión sin interferencias.
 
+## Plan de escape:
+
+- Si superman llega antes de que el equipo haya completado su misión, se activará un plan de escape que permitirá a los miembros del equipo abandonar el área de acción sin ser detectados por Superman. Este plan incluirá rutas de escape previamente establecidas y la utilización de vehículos rápidos y seguros para salir de la ciudad.
+- Si el equipo es atrapado por Superman, se activará un protocolo de emergencia que permitirá a los miembros del equipo utilizar sus habilidades y recursos para escapar de la situación y evitar ser capturados.
