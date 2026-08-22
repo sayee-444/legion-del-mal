@@ -52,6 +52,5 @@ jobs:
           echo "------ Mensaje ------"
           cowsay -f  eyes ${{inputs.mensaje}}
           echo ""
-          echo "--- ${{input.villano}} ---"
+          echo "--- ${{inputs.villano}} ---"
           echo "..."
-          
